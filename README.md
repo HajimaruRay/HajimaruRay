@@ -17,10 +17,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://logowik.com/content/uploads/images/adobe-photoshop-cc3131.jpg" width="36" height="36" alt="Photoshop" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
     <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-        <img src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_premiere_pro-logo-brandlogos.net_.png" width="36" height="36" alt="Premiere Pro" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
     </a>
 </p>
 

@@ -3,7 +3,6 @@
 ## About Me
 
 - Student at Silpakorn University | Computer Science
-- 1st year in Silpakorn University Faculty of Science, Computer Science major.
 - 🌍 Based in Nonthaburi, Thailand
 - ✉️ You can contact me at [chonlareeketkorwoing@gmail.com](mailto:chonlareeketkorwoing@gmail.com)
 

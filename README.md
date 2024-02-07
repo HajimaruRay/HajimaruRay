@@ -40,7 +40,7 @@
     <a href="https://www.github.com/HajimaruRay" target="_blank" rel="noreferrer">
         <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" width="32" height="32" alt="GitHub" />
     </a>
-    <a href="http://www.instagram.com/hajimaruuu" target="_blank" rel="noreferrer">
+    <a href="https://www.instagram.com/hajimaruuu/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
     </a>
 </p>

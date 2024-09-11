@@ -4,7 +4,7 @@
 
 - Student at Silpakorn University | Computer Science
 - 🌍 Based in Nonthaburi, Thailand
-- ✉️ You can contact me at [chonlareeketkorwoing@gmail.com](mailto:chonlareeketkorwoing@gmail.com)
+- ✉️ You can contact me at [chonlareeketkorwoingwork@gmail.com](mailto:chonlareeketkorwoingwork@gmail.com)
 
 ## Programming Languages
 

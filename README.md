@@ -64,6 +64,9 @@
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
     </a> 
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="background-color:white" alt="cypress" width="40" height="40"/> 
+    </a>
 </p>
 
 

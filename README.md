@@ -56,7 +56,7 @@
         <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSC" width="40" height="40"/>
     </a>
     <a href="https://github.com/home" target="_blank" rel="noreferrer"> 
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" width="40" height="40"/>
+        <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" alt="Github" width="40" height="40"/>
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://files.rubixdev.de/logos/unity.svg" alt="unity" width="40" height="40"/>
@@ -65,7 +65,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
     </a> 
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-        <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" style="background-color:white" alt="cypress" width="40" height="40"/> 
+        <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" alt="cypress" width="40" height="40"/> 
     </a>
 </p>
 

@@ -53,7 +53,7 @@
 
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSC" width="40" height="40"/>
+        <img src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="VSC" width="40" height="40"/>
     </a>
     <a href="https://github.com/home" target="_blank" rel="noreferrer"> 
         <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" alt="Github" width="40" height="40"/>
@@ -62,10 +62,18 @@
         <img src="https://files.rubixdev.de/logos/unity.svg" alt="unity" width="40" height="40"/>
     </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
+        <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="40" height="40"/>
     </a> 
+</p>
+
+## Testing Tools
+
+<p align="left">
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
         <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" alt="cypress" width="40" height="40"/> 
+    </a>
+    <a href="https://playwright.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAg1AAZAA0" alt="cypress" width="40" height="40"/> 
     </a>
 </p>
 
@@ -84,8 +92,8 @@
     </a>
 </p>
 
+<!--
 ## Badges
-
 **My GitHub Stats**
 
 <a href="http://www.github.com/HajimaruRay">
@@ -95,3 +103,4 @@
 <a href="https://github.com/HajimaruRay" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajimaruRay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+-->
